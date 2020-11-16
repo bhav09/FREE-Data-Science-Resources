@@ -18,6 +18,8 @@ All the resources are in the form of hyperlinks to the respective owners of the 
 
 -------------------------------------------------------------------------------------------------------------------
 
+## Resources
+
 ### Python
   
   * [Books](https://www.java67.com/2017/05/top-7-free-python-programming-books-pdf-online-download.html)
