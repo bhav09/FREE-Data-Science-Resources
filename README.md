@@ -14,6 +14,10 @@ This repository is a curation by [Bhavishya Pandit](https://www.linkedin.com/in/
 
    * Cheatsheet: downloadable pdf cheatsheet for quick revision on the topic
 
+All the resources are in the form of hyperlinks to the respective owners of the resources. And a big thank you to all the creators who had invested this much time and then put all these to public for the whole world to learn from it.
+
+-------------------------------------------------------------------------------------------------------------------
+
 ### Python
   
   * [Books](https://www.java67.com/2017/05/top-7-free-python-programming-books-pdf-online-download.html)
