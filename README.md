@@ -4,6 +4,16 @@
 
 -------------------------------------------------------------------------------------------------------------------
 
+## About
+
+This repository is a curation by [Bhavishya Pandit](https://www.linkedin.com/in/bhavishya-pandit/) which consists of free resources on various aspects of data science. The resources mentioned for each section have been divided into 3 sub sections which are as follows: 
+   
+   * Book/Books: Which consists of a book or a list of books which are the best for the respective topic.
+    
+   * Basics: Which consists of tutorials on the topic.
+
+   * Cheatsheet: downloadable pdf cheatsheet for quick revision on the topic
+
 ### Python
   
   * [Books](https://www.java67.com/2017/05/top-7-free-python-programming-books-pdf-online-download.html)
