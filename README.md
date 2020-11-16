@@ -91,8 +91,8 @@
 
 ### Hadoop
 
-  * [Books]()
+  * [Books](https://www.edupristine.com/blog/10-best-ebooks-hadoop)
   
-  * [Basics]()
+  * [Basics](https://www.tutorialspoint.com/hadoop/index.htm)
 
-  * [Cheatsheet]()
+  * [Cheatsheet](https://intellipaat.com/blog/tutorial/big-data-and-hadoop-tutorial/big-data-hadoop-cheat-sheet/)
