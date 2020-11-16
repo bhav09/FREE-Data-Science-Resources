@@ -1,4 +1,4 @@
-# Data-Science-Resources
+# FREE-Data-Science-Resources
 
 <img src="https://i.ibb.co/YyLs5Fr/d.jpg" width="280"/><img src="https://i.ibb.co/qxv09ng/image.png" width="375"/>
 
