@@ -1,5 +1,7 @@
 # Data-Science-Resources
 
+
+
 ### SQL
 
   * [Book](https://www.linkedin.com/posts/bhavishya-pandit_learn-sql-activity-6725401140504092673-Sjc2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3BuF11BIoeSrO9fXas59tozA%3D%3D)
@@ -41,51 +43,51 @@
   
 ### Deep Learning
 
-  * [Books]()
+  * [Book](http://neuralnetworksanddeeplearning.com/)
   
-  * [Basics]()
+  * [Basics](https://towardsdatascience.com/deep-learning-basics-1d26923cc24a)
 
-  * [Cheatsheet]()
+  * [Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 
 ### Computer Vision
 
-  * [Books]()
+  * [Book](https://www.packtpub.com/free-ebooks/application-development/mastering-opencv-4-third-edition/9781789533576)
   
-  * [Basics]()
+  * [Basics](https://realpython.com/tutorials/computer-vision/)
 
-  * [Cheatsheet]()
+  * [Cheatsheet](https://github.com/a-anjos/python-opencv/blob/master/cv2cheatsheet.pdf)
 
 ### NLP
 
   * [Book](https://www.nltk.org/book/)
   
-  * [Basics]()
+  * [Basics](https://towardsai.net/p/nlp/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
   
-  * [Cheatsheet]()
+  * [Cheatsheet](https://towardsdatascience.com/cheat-sheet-for-nlp-a-summary-of-my-nlp-learning-journey-thus-far-6ee753943890)
   
 ### Automation
 
-  * [Books]()
+  * [Book](https://automatetheboringstuff.com/)
   
-  * [Basics]()
+  * [Basics](https://www.guru99.com/selenium-tutorial.html)
 
-  * [Cheatsheet]()
+  * [Cheatsheet](https://intellipaat.com/blog/tutorial/selenium-tutorial/selenium-cheat-sheet/)
 
 ### Tableau
 
-  * [Books]()
+  * [Books](https://www.tableau.com/learn/articles/books-about-data-visualization)
   
-  * [Basics]()
+  * [Basics](https://www.tutorialspoint.com/tableau/tableau_tutorial.pdf)
 
-  * [Cheatsheet]()
+  * [Cheatsheet](https://intellipaat.com/blog/tutorial/tableau-tutorial/tableau-cheat-sheet/)
 
 ### AWS 
 
-  * [Books]()
+  * [Books](https://digitalcloud.training/aws-free-ebook-beginners-guide-to-aws-certification/)
   
-  * [Basics]()
+  * [Basics](https://aws.amazon.com/getting-started/hands-on/)
 
-  * [Cheatsheet]()
+  * [Cheatsheet](https://tutorialsdojo.com/aws-cheat-sheets/)
 
 ### Hadoop
 
