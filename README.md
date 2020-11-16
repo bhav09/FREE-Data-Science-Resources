@@ -2,15 +2,7 @@
 
 <img src="https://i.ibb.co/YyLs5Fr/d.jpg" width="280"/><img src="https://i.ibb.co/qxv09ng/image.png" width="375"/>
 
-### SQL
 
-  * [Book](https://www.linkedin.com/posts/bhavishya-pandit_learn-sql-activity-6725401140504092673-Sjc2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3BuF11BIoeSrO9fXas59tozA%3D%3D)
-  
-  * [Basics](https://www.w3schools.com/sql/sql_join.asp)
-  
-  * [Cheatsheet](https://www.sqltutorial.org/sql-cheat-sheet/)
-  
-  
 ### Python
   
   * [Books](https://www.java67.com/2017/05/top-7-free-python-programming-books-pdf-online-download.html)
@@ -32,6 +24,15 @@
     * [Tensorflow](http://www.aicheatsheets.com/static/pdfs/tensorflow_v_2.0.pdf)
 
     * [Pytorch](https://pytorch.org/tutorials/beginner/ptcheat.html)
+
+### SQL
+
+  * [Book](https://www.linkedin.com/posts/bhavishya-pandit_learn-sql-activity-6725401140504092673-Sjc2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3BuF11BIoeSrO9fXas59tozA%3D%3D)
+  
+  * [Basics](https://www.w3schools.com/sql/sql_join.asp)
+  
+  * [Cheatsheet](https://www.sqltutorial.org/sql-cheat-sheet/)
+ 
 
 ### Machine Learning
 
