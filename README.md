@@ -49,10 +49,48 @@
 
 ### Computer Vision
 
+  * [Books]()
+  
+  * [Basics]()
+
+  * [Cheatsheet]()
+
 ### NLP
+
+  * [Book](https://www.nltk.org/book/)
+  
+  * [Basics]()
+  
+  * [Cheatsheet]()
+  
+### Automation
+
+  * [Books]()
+  
+  * [Basics]()
+
+  * [Cheatsheet]()
 
 ### Tableau
 
+  * [Books]()
+  
+  * [Basics]()
+
+  * [Cheatsheet]()
+
 ### AWS 
 
+  * [Books]()
+  
+  * [Basics]()
+
+  * [Cheatsheet]()
+
 ### Hadoop
+
+  * [Books]()
+  
+  * [Basics]()
+
+  * [Cheatsheet]()
