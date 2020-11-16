@@ -1,6 +1,6 @@
 # Data-Science-Resources
 
-
+<img src="https://i.ibb.co/YyLs5Fr/d.jpg" width="375"/><img src="https://i.ibb.co/qxv09ng/image.png" width="575"/>
 
 ### SQL
 
