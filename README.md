@@ -32,7 +32,7 @@ Star this repo to show support!
   
     * [Numpy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 
-    * [Pandas](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiYnoOTv4btAhXJg0sFHa8wDzkYABAAGgJzZg&ae=2&ohost=www.google.com&cid=CAESQOD2nvW4CjcqENqpTqXNIReq3Grx7M2DrexlqybBHedo8rRMr4-F5evYk7gyjNcsZOrWvaSNIRPRiTE_JxUtwL0&sig=AOD64_15iHAzgfyIzhyhRJmJqgF8hi3vJg&q&adurl&ved=2ahUKEwi14fuSv4btAhVY4jgGHdcqD9AQ0Qx6BAgHEAE)
+    * [Pandas]()
 
     * [Sklearn](https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet)
 
