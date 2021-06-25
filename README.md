@@ -116,3 +116,11 @@ Star this repo to show support!
   * [Basics](https://www.tutorialspoint.com/hadoop/index.htm)
 
   * [Cheatsheet](https://intellipaat.com/blog/tutorial/big-data-and-hadoop-tutorial/big-data-hadoop-cheat-sheet/)
+
+### Devops
+
+   * [Books](https://allitbooks.net/category/devops.html)
+
+   * [Basics](https://www.javatpoint.com/devops#:~:text=The%20DevOps%20is%20a%20combination,testing%2C%20deployment%2C%20and%20operations.)
+
+   * [Cheatsheet](https://www.techrepublic.com/article/devops-the-smart-persons-guide/)
