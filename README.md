@@ -20,7 +20,21 @@ Star this repo to show support!
 
 -------------------------------------------------------------------------------------------------------------------
 
-## Resources
+# Resources
+
+### Mathematics
+
+   * [Books](https://www.hackerearth.com/blog/developers/top-13-must-read-machine-learning-books-for-beginners-free/)
+   
+   * [Basics](https://docs.google.com/document/d/1kG4l5-hcbIdgSkhoUo76EmUY5ABTDLhyEg2PRlzZt64/edit?usp=sharing)
+   
+   * [Cheatsheet]()
+
+      * [Probability and Statistics](http://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
+
+      * [Linear Algebra](https://towardsdatascience.com/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
+      
+      * [Calculus](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
 
 ### Python
   
